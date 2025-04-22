@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/produce-filter-app/static/css/main.56357f7f.css",
+    "main.js": "/produce-filter-app/static/js/main.08e5f473.js",
+    "static/js/453.ed3810f9.chunk.js": "/produce-filter-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/produce-filter-app/index.html",
+    "main.56357f7f.css.map": "/produce-filter-app/static/css/main.56357f7f.css.map",
+    "main.08e5f473.js.map": "/produce-filter-app/static/js/main.08e5f473.js.map",
+    "453.ed3810f9.chunk.js.map": "/produce-filter-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56357f7f.css",
+    "static/js/main.08e5f473.js"
+  ]
+}
